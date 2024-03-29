@@ -52,7 +52,7 @@ body{
 .hero{
     grid-area: hero;
     height: 89vh;
-    background: url('./src/images/lemons.jpg') center center no-repeat;
+    background: url('../src/images/lemons.jpg') center center no-repeat;
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -67,7 +67,7 @@ body{
 }
 
 .hero:after{
-    content: url('./src/images/seta_preta.png');
+    content: url('../src/images/seta_preta.png');
     position: absolute;
     height: 35px;
     bottom: 40px;
@@ -137,12 +137,12 @@ body{
 }
 
 .about .image.right{
-    background: url(./src/images/bridge.jpg) center center no-repeat;
+    background: url(../src/images/bridge.jpg) center center no-repeat;
     background-size: cover;
 }
 
 .about .image.left{
-    background: url(./src/images/sky.jpg) center center no-repeat;
+    background: url(../src/images/sky.jpg) center center no-repeat;
     background-size: cover;
 }
 
