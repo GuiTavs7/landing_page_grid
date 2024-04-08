@@ -37,4 +37,4 @@ Em resumo, mesmo que o CSS Grid não seja tão utilizado em todos os sites atual
 
 ## Design
 
-<img src="/src/images/design_completo.jpg" alt ="template">
+<img src="/src/images/design_completo.jpeg" alt ="template">
