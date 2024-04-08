@@ -35,6 +35,10 @@ A importância de aprender CSS Grid, mesmo que não seja amplamente utilizado em
 Em resumo, mesmo que o CSS Grid não seja tão utilizado em todos os sites atualmente, aprender essa ferramenta é valioso para os desenvolvedores web, pois oferece uma maneira mais poderosa e eficiente de criar layouts, além de prepará-los para as tendências e demandas futuras do desenvolvimento web.
 
 
-## Design
+## Design Desktop
 
-<img src="/src/images/design_completo.jpeg" alt ="template">
+<img src="/src/images/design_completo.jpeg" alt ="template desktop">
+
+## Design Mobile
+
+<img src="/src/images/design_mobile.jpeg" alt ="template mobile">
