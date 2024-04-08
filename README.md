@@ -1,9 +1,9 @@
-#Landing Pages#
+# Landing Pages
 
 Uma Landing Page é uma página da web projetada especificamente para direcionar o tráfego e converter visitantes em leads ou clientes. Geralmente, possui um objetivo claro e uma chamada à ação (CTA) bem definida, como a inscrição em uma lista de e-mails, o download de um recurso ou a compra de um produto.
 
 
-##Importância para Aprender HTML e CSS##
+## Importância para Aprender HTML e CSS
 
 1. **Prática Realista:** Criar Landing Pages proporciona uma oportunidade prática para aplicar os conceitos aprendidos em HTML e CSS. Isso ajuda a consolidar o conhecimento e a desenvolver habilidades reais de codificação.
 
@@ -18,7 +18,7 @@ Uma Landing Page é uma página da web projetada especificamente para direcionar
 Ao aprender HTML e CSS através da criação de Landing Pages, os aspirantes a desenvolvedores web podem desenvolver habilidades práticas, ganhar experiência e construir um portfólio sólido.
 
 
-##Uso do Display Grid##
+## Uso do Display Grid
 
 O CSS Grid é uma ferramenta poderosa que permite criar layouts complexos em páginas da web de forma mais intuitiva e eficiente. Ele introduz um sistema de grade bidimensional que permite posicionar elementos em linhas e colunas, proporcionando um controle preciso sobre o layout da página. 
 
