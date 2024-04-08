@@ -37,16 +37,16 @@ Em resumo, mesmo que o CSS Grid não seja tão utilizado em todos os sites atual
 
 ## Design Desktop
 
-<img src="/src/images/design_completo.jpeg" alt ="template desktop">
+<img src="/src/images/design_completo.jpeg" alt ="template desktop" align ="center">
 
 
 ## Design Mobile
 
-<img src="/src/images/design_mobile.jpeg" alt ="template mobile">
+<img src="/src/images/design_mobile.jpeg" alt ="template mobile" align ="center">
 
 
 ## Menu Interativo
 
-<img src="/src/images/menu_interativo.png" alt ="menu interativo">
+<img src="/src/images/menu_interativo.png" alt ="menu interativo" align ="center">
 
 
