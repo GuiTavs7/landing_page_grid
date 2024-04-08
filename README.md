@@ -1,6 +1,7 @@
-**Landing Pages**
+*Landing Pages*
 
 Uma Landing Page é uma página da web projetada especificamente para direcionar o tráfego e converter visitantes em leads ou clientes. Geralmente, possui um objetivo claro e uma chamada à ação (CTA) bem definida, como a inscrição em uma lista de e-mails, o download de um recurso ou a compra de um produto.
+
 
 **Importância para Aprender HTML e CSS**
 
@@ -15,6 +16,7 @@ Uma Landing Page é uma página da web projetada especificamente para direcionar
 5. **Portfólio Profissional:** À medida que se tornam mais proficientes em HTML e CSS, os desenvolvedores podem usar as Landing Pages que criaram como parte de seu portfólio. Isso pode ser útil ao procurar emprego ou clientes como freelancer.
 
 Ao aprender HTML e CSS através da criação de Landing Pages, os aspirantes a desenvolvedores web podem desenvolver habilidades práticas, ganhar experiência e construir um portfólio sólido.
+
 
 ***Uso do Display Grid***
 
