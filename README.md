@@ -33,3 +33,8 @@ A importância de aprender CSS Grid, mesmo que não seja amplamente utilizado em
 4. **Melhor compreensão do CSS:** Aprender CSS Grid não apenas expande seu conjunto de habilidades, mas também aprofunda sua compreensão do CSS como um todo. Ele introduz conceitos como grades, áreas de grid, alinhamento e posicionamento, que são fundamentais para o design de layouts web modernos.
 
 Em resumo, mesmo que o CSS Grid não seja tão utilizado em todos os sites atualmente, aprender essa ferramenta é valioso para os desenvolvedores web, pois oferece uma maneira mais poderosa e eficiente de criar layouts, além de prepará-los para as tendências e demandas futuras do desenvolvimento web.
+
+
+## Design
+
+<img src="/src/images/design_completo.jpg" alt ="template">
